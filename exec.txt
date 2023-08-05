@@ -2,6 +2,7 @@ git clone https://github.com/LucksStudy/MyLibrary.git
 
 seleciona a pasta de arquivos gerado no dia...
 Atualizar pasta
-cls
-git commit -a -m "atual"
-git push
+cls ( clear scream)
+git add . (add arquivos)
+git commit -a -m "atual" (atualizar)
+git push (request)
