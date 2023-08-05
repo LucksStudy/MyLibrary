@@ -1,0 +1,8 @@
+git clone https://github.com/LucksStudy/MyLibrary.git
+
+
+cls
+git add .
+git commit -a -m "first commit"
+git config --global user.email tad-lucassilva@ucpparana.edu.br
+git config --global user.name LucksStudy
